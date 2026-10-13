@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/muhammadabdu11ah/portfolio/issues"
   },
-  "homepage": "https://github.com/muhammadabdu11ah/portfolio#readme"
+  "homepage": "https://github.com/muhammadabdu11ah/portfolio#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.0",
+    "tailwindcss": "^4.3.3"
+  }
 }
