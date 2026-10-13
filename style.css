@@ -15,3 +15,8 @@ nav {
     font-size: larger;
     align-items: center;
 }
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
